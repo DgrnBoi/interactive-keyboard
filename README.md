@@ -8,7 +8,7 @@
 A fully functional virtual keyboard interface that interacts with both mouse clicks and physical keyboard inputs. This project demonstrates DOM manipulation, event listening, and responsive CSS styling without the use of external frameworks.
 
 ## 🔗 Live Demo
-[**Click here to try the Live Keyboard**]([(https://github.com/DgrnBoi/interactive-keyboard))
+[**Click here to try the Live Keyboard**]([(https://github.com/DgrnBoi/interactive-keyboard)])
 
 ## ✨ Features
 
